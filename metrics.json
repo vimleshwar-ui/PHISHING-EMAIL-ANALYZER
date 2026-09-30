@@ -1,0 +1,20 @@
+{
+  "accuracy": 1.0,
+  "confusion_matrix": [
+    [
+      60,
+      0
+    ],
+    [
+      0,
+      60
+    ]
+  ],
+  "labels": [
+    "Safe",
+    "Phishing"
+  ],
+  "train_size": 480,
+  "test_size": 120,
+  "source": "demo"
+}
